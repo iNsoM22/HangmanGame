@@ -11,3 +11,5 @@
 - Admin can add as many words as they want, but the words should be separated with commas. Only those words that are not already in the words file will be added.
 
 - The folder named "HM" contains all the images that will be used during the program execution.
+
+- You can also learn more about the functions and their operations through the report named (CEP Report).
