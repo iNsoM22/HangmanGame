@@ -1,3 +1,5 @@
+- Python should be installed properly before runing this application.
+
 - Screen Resolution should be at least 1080p (i.e., 1600x900) to get the better experience.
 
 - Username cannot be left empty.
